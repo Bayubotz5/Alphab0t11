@@ -1,18 +1,18 @@
 {
     "self_mode": false,
 	"autobio": false,
-	"antihidetag": true,
+	"antihidetag": false,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": false,
+	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6289525518325",
+	"ownerNumberr": "6289525518325",
+	"cr": "@Bayuofc",
+	"ownername": "BayuOfc",
+	"botname":"BAYUBOTZ",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  BAYUBOTZ  」\nCreated By @BayuOfc"
 }
